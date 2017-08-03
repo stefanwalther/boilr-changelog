@@ -1,0 +1,22 @@
+{
+  "name": "boilr-changelog",
+  "version": "1.0.0",
+  "description": "Create your CHANGELOG file using boilr.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stefanwalther/boilr-changelog.git"
+  },
+  "keywords": [
+    "boilr",
+    "changelog"
+  ],
+  "author": "Stefan Walther <swr.nixda@gmail.com> (http://qliksite.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stefanwalther/boilr-changelog/issues"
+  },
+  "homepage": "https://github.com/stefanwalther/boilr-changelog#readme"
+}
